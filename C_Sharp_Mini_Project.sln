@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Mini_Project", "C_Sharp_Mini_Project\C_Sharp_Mini_Project.csproj", "{82D4A014-5F5B-45F8-8FE7-4C398EEFE29D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CSharpMiniProjectSetup", "CSharpMiniProjectSetup\CSharpMiniProjectSetup.vdproj", "{463A9109-F05A-432B-A135-C890B20017E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82D4A014-5F5B-45F8-8FE7-4C398EEFE29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D4A014-5F5B-45F8-8FE7-4C398EEFE29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D4A014-5F5B-45F8-8FE7-4C398EEFE29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D4A014-5F5B-45F8-8FE7-4C398EEFE29D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463A9109-F05A-432B-A135-C890B20017E3}.Debug|Any CPU.ActiveCfg = Debug
+		{463A9109-F05A-432B-A135-C890B20017E3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D553FB8-7A2E-4A2E-8E05-50BEF91C284F}
+	EndGlobalSection
+EndGlobal
