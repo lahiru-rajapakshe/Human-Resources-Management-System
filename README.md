@@ -7,8 +7,10 @@ This repository is where i develop the HRM as a inidividual project. this projec
 
 
 ## Screenshots
-
-![App Screenshot](https://drive.google.com/file/d/1d4gZQOLplij_KxxU_wKkVExcj9zJn-wa/view?usp=sharing)
+![Screenshot from 2022-01-09 22-58-08](https://user-images.githubusercontent.com/66423576/148693430-07573271-ddb1-41ea-8cae-e190d5743f14.png)
+![Screenshot from 2022-01-09 22-58-25](https://user-images.githubusercontent.com/66423576/148693431-d2ab323a-0652-4c37-98ba-b7073c0c91de.png)
+![Screenshot from 2022-01-09 22-58-44](https://user-images.githubusercontent.com/66423576/148693434-ab5df9fd-2520-4e1c-8bdf-c6f048e687a0.png)
+![Screenshot from 2022-01-09 22-58-54](https://user-images.githubusercontent.com/66423576/148693436-46bd691b-8324-4bd6-96b9-a356f075847a.png)
 
 
 # features
