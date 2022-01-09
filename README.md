@@ -59,8 +59,6 @@ See also my linked in profile.
     Advanced text Editor | Java
     Robot Controlling in Remote | Arduino |java
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)
-
 
 ## License
 Copyright © Lahiru Rajapakshe. All rights reserved.
