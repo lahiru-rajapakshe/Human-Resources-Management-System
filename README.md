@@ -7,10 +7,12 @@ This repository is where i develop the HRM as a inidividual project. this projec
 
 
 ## Screenshots
-![Screenshot from 2022-01-09 22-58-08](https://user-images.githubusercontent.com/66423576/148693430-07573271-ddb1-41ea-8cae-e190d5743f14.png)
-![Screenshot from 2022-01-09 22-58-25](https://user-images.githubusercontent.com/66423576/148693431-d2ab323a-0652-4c37-98ba-b7073c0c91de.png)
-![Screenshot from 2022-01-09 22-58-44](https://user-images.githubusercontent.com/66423576/148693434-ab5df9fd-2520-4e1c-8bdf-c6f048e687a0.png)
-![Screenshot from 2022-01-09 22-58-54](https://user-images.githubusercontent.com/66423576/148693436-46bd691b-8324-4bd6-96b9-a356f075847a.png)
+![Screenshot from 2022-01-09 23-02-29](https://user-images.githubusercontent.com/66423576/148693620-9e07b9b5-d5e8-4af8-a227-ff6c4bedb7cd.png)
+![Screenshot from 2022-01-09 23-02-53](https://user-images.githubusercontent.com/66423576/148693623-4c303d76-8184-47b1-abd9-25d1c1e4431f.png)
+![Screenshot from 2022-01-09 23-03-13](https://user-images.githubusercontent.com/66423576/148693624-65447ba5-632a-46b0-bba0-f67a4dd5dae8.png)
+![Screenshot from 2022-01-09 23-03-27](https://user-images.githubusercontent.com/66423576/148693626-48de47bc-003f-4bfb-9bab-4fa24ac03a80.png)
+![Screenshot from 2022-01-09 23-03-43](https://user-images.githubusercontent.com/66423576/148693628-2df2a0f4-b976-41b2-9597-084926e041a2.png)
+
 
 
 # features
