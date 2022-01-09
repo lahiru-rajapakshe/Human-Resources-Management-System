@@ -65,7 +65,7 @@ See also my linked in profile.
 ## License
 Copyright © Lahiru Rajapakshe. All rights reserved.
 
-Licensed under the [MIT]https://github.com/Lahiru720/Human-Resources-Management-System-in-C-/pull/2 license.
+Licensed under the [MIT](https://github.com/Lahiru720/Human-Resources-Management-System-in-C-/pull/2) license.
 
 
 ## 🔗 Links
