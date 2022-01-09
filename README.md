@@ -37,6 +37,10 @@ This repository is where i develop the HRM as a inidividual project. this projec
     
 These are the All features avalible in the project.
 
+## How to use this repository?
+    1.First clone the repository
+    2.Once cloned, open the repository Visual studio
+    3.Build and Run!
 
 ## Feedback
     Ask a question on Stackoverflow
