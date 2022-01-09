@@ -15,7 +15,7 @@ This repository is where i develop the HRM as a inidividual project. this projec
 
 
 
-# features
+# Features
 
     1.Login/Logout
     2.HR and user department sections
