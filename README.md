@@ -36,6 +36,7 @@ This repository is where i develop the HRM as a inidividual project. this projec
     17.100% Exception Handling
     
 These are the All features avalible in the project.
+Watch the full video about this project : https://www.linkedin.com/posts/lahiru-rajapakshe-9919651ba_humanresourcesmanagementsystem-every-individualabrproject-activity-6828203053263450112-Ry_g
 
 ## How to use this repository?
     1.First clone the repository
